@@ -364,4 +364,10 @@ nav ul li a.active {
     .container {
         max-width: 100%;
     }
+    #about .container h1,
+    #about .about-container .about-content h2,
+    #about .about-container .about-content p {
+        margin-left: 1rem;
+    }
+
 }
